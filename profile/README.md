@@ -1,1 +1,1 @@
-<img src="banner_rounded.png">
+<img src="banner_rounded.png" />
